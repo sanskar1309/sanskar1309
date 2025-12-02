@@ -28,10 +28,8 @@ A full-stack wellness platform featuring fitness tracking, goal management, calo
 ## 📈 What I'm Working On  
 - Improving frontend system design skills  
 - Building scalable full-stack apps  
-- Preparing for remote roles (12–20 LPA)
 
 ---
 
 ## 📫 Connect With Me  
-LinkedIn: <your link>  
-Portfolio: <your link>
+LinkedIn: https://www.linkedin.com/in/sanskarmaharwade/ 
