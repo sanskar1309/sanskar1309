@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Sanskar — Frontend Engineer (React • Vue • Next.js)
 
-<!--
-**sanskar1309/sanskar1309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-focused Software Engineer with 2 years of experience building responsive, accessible, and high-performance web applications.  
+I specialize in React, Vue, Next.js, TypeScript, and modern UI engineering.
 
-Here are some ideas to get you started:
+I enjoy building real-world, production-quality projects and exploring performance optimization, clean architecture, and component-driven development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Project
+
+### 🔥 FitNest – Full-Stack Wellness App  
+*Next.js • PostgreSQL*
+
+A full-stack wellness platform featuring fitness tracking, goal management, calorie tracking, AI-powered meal planning, and guided yoga & meditation routines.  
+**Live:** https://fitnest-fullstack.vercel.app/  
+**Code:** <repo link>
+
+---
+
+## 🛠 Tech Stack  
+**Frontend:** React, Vue, Next.js, Nuxt.js, TypeScript, Tailwind  
+**Backend / DB:** Node.js, PostgreSQL, Supabase, Prisma  
+**Tools:** GitHub Actions, Vercel, Postman, Figma  
+
+---
+
+## 📈 What I'm Working On  
+- Improving frontend system design skills  
+- Building scalable full-stack apps  
+- Preparing for remote roles (12–20 LPA)
+
+---
+
+## 📫 Connect With Me  
+LinkedIn: <your link>  
+Portfolio: <your link>
