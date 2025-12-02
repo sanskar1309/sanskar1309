@@ -1,35 +1,98 @@
-# 👋 Hi, I'm Sanskar — Frontend Engineer (React • Vue • Next.js)
+# 👋 Hi, I'm Sanskar — Frontend Engineer (React + Vue)
 
-Frontend-focused Software Engineer with 2 years of experience building responsive, accessible, and high-performance web applications.  
-I specialize in React, Vue, Next.js, TypeScript, and modern UI engineering.
-
-I enjoy building real-world, production-quality projects and exploring performance optimization, clean architecture, and component-driven development.
+I’m a frontend-focused Software Engineer with 2+ years of experience building **high-performance**, **scalable**, and **production-grade** web applications.  
+I specialize in modern JavaScript frameworks, UI engineering, component libraries, and performance optimization.
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Tech Stack & Skills
 
-### 🔥 FitNest – Full-Stack Wellness App  
-*Next.js • PostgreSQL*
+### **Frontend**
+- **React.js**, **Next.js**, **Vue.js**, **Nuxt.js**
+- JavaScript (ES6+), TypeScript  
+- SSR, CSR, SSG, API Integrations  
+- Component-driven development, design systems
 
-A full-stack wellness platform featuring fitness tracking, goal management, calorie tracking, AI-powered meal planning, and guided yoga & meditation routines.  
-**Live:** https://fitnest-fullstack.vercel.app/  
-**Code:** <repo link>
+### **UI / Styling**
+- Tailwind CSS, shadcn/ui  
+- Material-UI, Bootstrap  
+- Storybook (component documentation)  
+- Responsive & Accessible UI (WCAG)
+
+### **State Management**
+- Redux, Zustand, Vuex, Pinia
+
+### **Tooling & Architecture**
+- Vite, Webpack  
+- Nx Monorepos  
+- Git, NPM/Yarn  
+- REST APIs  
+- Performance optimization, code splitting, caching  
+- Figma to Frontend workflows
 
 ---
 
-## 🛠 Tech Stack  
-**Frontend:** React, Vue, Next.js, Nuxt.js, TypeScript, Tailwind  
-**Backend / DB:** Node.js, PostgreSQL, Supabase, Prisma  
-**Tools:** GitHub Actions, Vercel, Postman, Figma  
+## 🧩 What I Build
+✔ High-performance dashboards  
+✔ Scalable design systems  
+✔ Multilingual + multi-tenant apps  
+✔ Real-time UIs  
+✔ SSR platforms  
+✔ End-to-end frontend architectures
 
 ---
 
-## 📈 What I'm Working On  
-- Improving frontend system design skills  
-- Building scalable full-stack apps  
+## 🛠 Professional Experience (Short)
+- **Software Engineer @ Ranium Systems**  
+  Building enterprise dashboards, multilingual apps, design systems, and Nuxt projects.
+
+- **Associate Software Developer @ CodeNicely**  
+  Built SSR platforms, integrated 100+ APIs, optimized load times by ~70%.
+
+- **Freelance Projects**  
+  Real estate auction platform, ticketing system, and custom admin panels.
 
 ---
 
-## 📫 Connect With Me  
-LinkedIn: https://www.linkedin.com/in/sanskarmaharwade/ 
+## 🌟 Featured Projects
+
+### **🏋️ FitNest — Full-Stack Fitness Platform**
+**Next.js, PostgreSQL, Prisma, Tailwind, NextAuth**  
+A full-stack fitness and wellness platform with:
+- Goal tracking & calorie analytics  
+- AI Meal Planner  
+- Yoga & meditation modules  
+- Smart dashboards & progress insights  
+🔗 Live: https://fitnest-fullstack.vercel.app/
+
+---
+
+### **🏠 Real Estate Auction Platform**
+Next.js + Vue.js  
+- Multilingual + RTL support  
+- Dynamic bidding workflows  
+- Admin dashboards for auction management  
+
+---
+
+### **🎟 Event & Ticketing Platform**
+React.js + shadcn/ui + Inertia.js  
+- Real-time seat selection  
+- Ticket sales & event tools  
+- Migrated legacy stack → modern frontend  
+
+---
+
+## 📈 Current Focus
+- Performance Optimization  
+- UI Architecture & Design Systems  
+- Scaling SSR Apps  
+- Building polished frontend case studies
+
+---
+
+## 📫 Connect With Me
+👉 **LinkedIn:** [LINK](https://www.linkedin.com/in/sanskarmaharwade/)  
+👉 **Email:** rmaharwade@gmail.com
+
+---
