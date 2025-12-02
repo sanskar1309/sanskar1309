@@ -47,7 +47,7 @@ I specialize in modern JavaScript frameworks, UI engineering, component librarie
   Building enterprise dashboards, multilingual apps, design systems, and Nuxt projects.
 
 - **Associate Software Developer @ CodeNicely**  
-  Built SSR platforms, integrated 100+ APIs, optimized load times by ~70%.
+  Worked on SSR platforms, integrated complex APIs, and built responsive, smooth user experiences with modern frontend tools.
 
 - **Freelance Projects**  
   Real estate auction platform, ticketing system, and custom admin panels.
