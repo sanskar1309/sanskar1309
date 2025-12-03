@@ -44,7 +44,7 @@ I specialize in modern JavaScript frameworks, UI engineering, component librarie
 
 ## 🛠 Professional Experience (Short)
 - **Software Engineer @ Ranium Systems**  
-  Developed complex dashboards, a 7-language multilingual platform, and a shared component library using React, Storybook, and Tailwind. Worked in a multi-package monorepo and shipped    reliable, maintainable UI at enterprise scale.
+  Developed complex dashboards, a 7-language multilingual platform, and a shared component library using Storybook. Worked in a multi-package monorepo and shipped reliable,               maintainable UI at enterprise scale.
 
 - **Associate Software Developer @ CodeNicely**  
   Worked on SSR platforms, integrated complex APIs, and built responsive, smooth user experiences with modern frontend tools.
