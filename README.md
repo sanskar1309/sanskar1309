@@ -119,6 +119,7 @@ I specialize in React/Next.js/Vue ecosystems, monorepo design systems, performan
 ---
 
 ## 📈 Current Focus
+- On the road to becoming a well-rounded full-stack engineer — deepening backend, infra, and system design chops alongside frontend expertise
 - Performance optimization & scalable UI architecture
 - Design systems & Storybook-driven component libraries
 - Scaling SSR apps for international markets
