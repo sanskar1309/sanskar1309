@@ -1,10 +1,5 @@
 # 👋 Hi, I'm Sanskar — Full-Stack Frontend Engineer
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanskar1309&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskar1309&layout=compact&hide_border=true&theme=default)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sanskar1309&hide_border=true&theme=default)
-
 ---
 
 Frontend-focused engineer with 2+ years building **production-grade SaaS, ERP, and compliance platforms**.
